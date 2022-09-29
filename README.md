@@ -40,3 +40,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 6. Hiding of env and secrets like API endpoints and more.
 
 ### Screenshot
+
+<img width=“450” src="https://github.com/kripikroli/lightcast-test/blob/main/images/scp.png">
